@@ -50,10 +50,14 @@
 
 ## 🚀 Top Projects
 
-- [Project 1](https://github.com/avinash-kumar/project1): Awesome project description.
-- [Project 2](https://github.com/avinash-kumar/project2): Another great project.
-- [Project 3](https://github.com/avinash-kumar/project3): Something cool here.
+- [Universal Trading Platform](https://github.com/mravi1611/Universal-trading-platform):
+  Robust trading platform built with **Vite**, **TypeScript**, **React**, **shadcn-ui**, and **Tailwind CSS**. Features a modern development setup for rapid trading application deployment.
 
+- [Behavioral Monitoring System](https://github.com/mravi1611/Behavioral-Monitoring-System):
+  Intelligent behavior analysis and monitoring system using **Python**, **HTML**, and **CSS**. Includes modules for real-time data collection, detection, and visualization in research or workplace scenarios.
+
+- [Gaav Vidhi Flow](https://github.com/mravi1611/gaav-vidhi-flow):
+  Project dedicated to automating and managing village administrative workflows. Designed to bring efficiency and transparency to legal and government processes.
 ---
 
 ## 📫 Contact Me
