@@ -7,10 +7,10 @@
   <a href="https://github.com/avinash-kumar">
     <img src="https://img.shields.io/github/followers/avinash-kumar?label=Follow&style=social" alt="GitHub">
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="avinashklm06@gmail.com">
     <img src="https://img.shields.io/badge/email-Contact-green" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://linkedin.com/in/avinash-kumar-828745268">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
   </a>
 </p>
